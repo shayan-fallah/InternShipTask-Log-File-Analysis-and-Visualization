@@ -15,5 +15,6 @@ This project aims to build a data pipeline that reads nginx log files, parses an
 ## Visulization.ipynb
   jupyter nootbook contains graph and visulization of the extracted data 
 
-## log.json
-  json file which I used the mysql workbench to export the database that the python script created from log.txt
+## DataBase dircetory :
+  Description of data base and exported file for the data
+    (json nad html files which I used the mysql workbench to export the database that the python script created from log.txt
